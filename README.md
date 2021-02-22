@@ -1,5 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Nesse desafio objetivo é fazer a leitura dos estados e cidades da api do ibge e salvar em um banco de dados mysql.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Fiz o desafio proposto mais não fiz o tratamento de erros pois nesse contexto não achei necessário por ser uma coisa tão simples.
